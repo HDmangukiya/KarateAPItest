@@ -17,3 +17,5 @@
 - Run the user simulation with the script below
 > $ mvn clean test-compile gatling:test
 - See test report in the target/gatling/usersimulation/, then open index.html file
+
+![Screenshot](https://github.com/HDmangukiya/KarateAPItest/raw/main/KarateAPItest_target_gatling_req_post.html.png)
